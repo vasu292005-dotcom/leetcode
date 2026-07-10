@@ -1,0 +1,29 @@
+class Solution(object):
+    def divide(self, dividend, divisor):
+        """
+        :type dividend: int
+        :type divisor: int
+        :rtype: int
+        """
+        sign = 1
+        if dividend >= 0 and divisor < 0 or dividend <= 0 and divisor > 0:
+            sign = -1
+        dividend = abs(dividend)
+        divisor = abs(divisor)
+
+        ans = 0
+        t1 = divisor
+        t2 = 1
+        while t1 <= dividend:
+            t1 <<= 1
+            t2 <<= 1
+        while divisor <= dividend:
+            t1 >>= 1
+            t2 >>= 1
+            if t1 <= dividend:
+                dividend -= t1
+                ans += t2
+        ans = sign * ans
+        if -2 ** 31 <= ans <= 2 ** 31 - 1:
+            return ans
+        return 2 ** 31 - 1
