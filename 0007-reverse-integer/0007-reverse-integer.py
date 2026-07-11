@@ -4,13 +4,13 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        flag = 1 if x >= 0 else -1
-        x *= flag
-        ans = 0
-        while x > 0:
-            ans = ans * 10 + x % 10
+        sign = -1 if x < 0 else 1
+        x = abs(x)
+        rev = 0
+        while x:
+            rev = rev * 10 + x % 10
             x //= 10
-        ans *= flag
-        if -2 ** 31 <= ans <= 2 ** 31 - 1:
-            return ans
-        return 0
+        rev *= sign
+        if rev < -2**31 or rev > 2**31 - 1:
+            return 0
+        return rev
