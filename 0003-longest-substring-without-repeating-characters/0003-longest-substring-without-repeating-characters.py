@@ -4,13 +4,20 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        ans = 0
-        p = 0
-        d = {}
-        for i, c in enumerate(s):
-            if c not in d or d[c] < p:
-                ans = max(ans, i - p + 1)
-            else:
-                p = d[c] + 1
-            d[c] = i
-        return ans
+        last_seen = {}
+        left = 0
+        longest = 0
+
+        for right in range(len(s)):
+            ch = s[right]
+
+            if ch in last_seen and last_seen[ch] >= left:
+                left = last_seen[ch] + 1
+
+            last_seen[ch] = right
+            window = right - left + 1
+
+            if window > longest:
+                longest = window
+
+        return longest
