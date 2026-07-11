@@ -5,15 +5,16 @@ class Solution(object):
         :type numRows: int
         :rtype: str
         """
-        if numRows == 1:
+        if numRows == 1 or numRows >= len(s):
             return s
-        ans = [""] * numRows
-        i, step = 0, None
-        for c in s:
-            ans[i] += c
-            if i == 0:
+        rows = [""] * numRows
+        row = 0
+        step = 1
+        for ch in s:
+            rows[row] += ch
+            if row == 0:
                 step = 1
-            elif i == numRows - 1:
+            elif row == numRows - 1:
                 step = -1
-            i += step
-        return "".join(ans)
+            row += step
+        return "".join(rows)
