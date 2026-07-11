@@ -5,31 +5,22 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: float
         """
-        l = len(nums1) + len(nums2)
-        t = l // 2
-        if l % 2 == 0:
-            return (self.findK(nums1, nums2, t - 1)
-                    + self.findK(nums1, nums2, t)) / 2.0
-        else:
-            return self.findK(nums1, nums2, t)
-
-    def findK(self, nums1, nums2, k):
-        if not nums1:
-            return nums2[k]
-        if not nums2:
-            return nums1[k]
-        if k == 0:
-            return min(nums1[0], nums2[0])
-        
-        l1 = len(nums1) // 2
-        l2 = len(nums2) // 2
-        if nums1[l1] > nums2[l2]:
-            if k > l1 + l2:
-                return self.findK(nums1, nums2[l2 + 1:], k - l2 - 1)
+        if len(nums1) > len(nums2):
+            nums1, nums2 = nums2, nums1
+        x, y = len(nums1), len(nums2)
+        low, high = 0, x
+        while low <= high:
+            cut1 = (low + high) // 2
+            cut2 = (x + y + 1) // 2 - cut1
+            left1 = float("-inf") if cut1 == 0 else nums1[cut1 - 1]
+            right1 = float("inf") if cut1 == x else nums1[cut1]
+            left2 = float("-inf") if cut2 == 0 else nums2[cut2 - 1]
+            right2 = float("inf") if cut2 == y else nums2[cut2]
+            if left1 <= right2 and left2 <= right1:
+                if (x + y) % 2 == 0:
+                    return (max(left1, left2) + min(right1, right2)) / 2.0
+                return float(max(left1, left2))
+            if left1 > right2:
+                high = cut1 - 1
             else:
-                return self.findK(nums1[:l1], nums2, k)
-        else:
-            if k > l1 + l2:
-                return self.findK(nums1[l1 + 1:], nums2, k - l1 - 1)
-            else:
-                return self.findK(nums1, nums2[:l2], k)
+                low = cut1 + 1
