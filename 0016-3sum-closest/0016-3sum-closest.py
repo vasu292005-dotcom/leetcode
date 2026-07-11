@@ -6,19 +6,31 @@ class Solution(object):
         :rtype: int
         """
         nums.sort()
+        closest = nums[0] + nums[1] + nums[2]
         n = len(nums)
-        ans, diff = None, float("inf")
         for i in range(n - 2):
-            p1, p2 = i + 1, n - 1
-            while p1 < p2:
-                t = nums[p1] + nums[p2] + nums[i]
-                if t == target:
-                    return target
-                if abs(target - t) < diff:
-                    diff = abs(target - t)
-                    ans = t
-                if t < target:
-                    p1 += 1
+            left = i + 1
+            right = n - 1
+            while left < right:
+                total = nums[i] + nums[left] + nums[right]
+                if abs(total - target) < abs(closest - target):
+                    closest = total
+                if total < target:
+                    left += 1
+                elif total > target:
+                    right -= 1
                 else:
-                    p2 -= 1
-        return ans
+                    return total
+        return closest
+
+
+
+
+
+
+
+
+
+
+
+
