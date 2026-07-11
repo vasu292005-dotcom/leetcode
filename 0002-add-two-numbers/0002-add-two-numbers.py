@@ -10,21 +10,23 @@ class Solution(object):
         :type l2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(-1)
-        p = dummy
+        head = ListNode(0)
+        tail = head
         carry = 0
+
         while l1 or l2 or carry:
+            total = carry
+
             if l1:
-                carry = l1.val + carry
+                total += l1.val
                 l1 = l1.next
+
             if l2:
-                carry = l2.val + carry
+                total += l2.val
                 l2 = l2.next
-            if carry >= 10:
-                p.next = ListNode(carry - 10)
-                carry = 1
-            else:
-                p.next = ListNode(carry)
-                carry = 0
-            p = p.next
-        return dummy.next
+
+            carry, digit = divmod(total, 10)
+            tail.next = ListNode(digit)
+            tail = tail.next
+
+        return head.next
