@@ -4,10 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        d = {"M": 1000, "D": 500, "C": 100, "L": 50, "X": 10, "V": 5, "I": 1}
-        ans = 0
+        value = {"I":1,"V":5,"X":10,"L":50,"C":100,"D":500,"M":1000}
+        total = 0
         for i in range(len(s)):
-            if i > 0 and d[s[i]] > d[s[i - 1]]:
-                ans -= 2 * d[s[i - 1]]
-            ans += d[s[i]]
-        return ans
+            if i + 1 < len(s) and value[s[i]] < value[s[i + 1]]:
+                total -= value[s[i]]
+            else:
+                total += value[s[i]]
+        return total
