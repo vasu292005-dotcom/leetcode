@@ -10,13 +10,14 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(-1)
+        dummy = ListNode(0)
         dummy.next = head
-        p, q = dummy, dummy
-        for _ in range(n):
-            p = p.next
-        while p.next:
-            p = p.next
-            q = q.next
-        q.next = q.next.next
+        fast = dummy
+        slow = dummy
+        for _ in range(n + 1):
+            fast = fast.next
+        while fast:
+            fast = fast.next
+            slow = slow.next
+        slow.next = slow.next.next
         return dummy.next
