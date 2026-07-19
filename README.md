@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vasu292005-dotcom/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/vasu292005-dotcom/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vasu292005-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/vasu292005-dotcom/leetcode/tree/master/0068-text-justification) |
 ## String
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vasu292005-dotcom/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/vasu292005-dotcom/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/vasu292005-dotcom/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/vasu292005-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/vasu292005-dotcom/leetcode/tree/master/0068-text-justification) |
 ## Simulation
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/vasu292005-dotcom/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vasu292005-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vasu292005-dotcom/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/vasu292005-dotcom/leetcode/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vasu292005-dotcom/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vasu292005-dotcom/leetcode/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
