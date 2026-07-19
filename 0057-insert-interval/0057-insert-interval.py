@@ -1,0 +1,14 @@
+class Solution(object):
+    def insert(self, intervals, newInterval):
+        """
+        :type intervals: List[List[int]]
+        :type newInterval: List[int]
+        :rtype: List[List[int]]
+        """
+        s, e = newInterval[0], newInterval[1]
+        l = list(filter(lambda x: x[1] < s, intervals))
+        r = list(filter(lambda x: x[0] > e, intervals))
+        if len(l) + len(r) < len(intervals):
+            s = min(s, intervals[len(l)][0])
+            e = max(e, intervals[-len(r) - 1][1])
+        return l + [[s, e]] + r
