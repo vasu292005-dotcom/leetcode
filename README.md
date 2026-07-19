@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vasu292005-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/vasu292005-dotcom/leetcode/tree/master/0041-first-missing-positive) |
 | [0068-text-justification](https://github.com/vasu292005-dotcom/leetcode/tree/master/0068-text-justification) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vasu292005-dotcom/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/vasu292005-dotcom/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vasu292005-dotcom/leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/vasu292005-dotcom/leetcode/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
