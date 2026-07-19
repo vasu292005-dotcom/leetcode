@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vasu292005-dotcom/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vasu292005-dotcom/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/vasu292005-dotcom/leetcode/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/vasu292005-dotcom/leetcode/tree/master/0068-text-justification) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vasu292005-dotcom/leetcode/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/vasu292005-dotcom/leetcode/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vasu292005-dotcom/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vasu292005-dotcom/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vasu292005-dotcom/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/vasu292005-dotcom/leetcode/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
