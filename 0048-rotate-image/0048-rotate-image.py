@@ -1,0 +1,13 @@
+class Solution(object):
+    def rotate(self, matrix):
+        """
+        :type matrix: List[List[int]]
+        :rtype: None Do not return anything, modify matrix in-place instead.
+        """
+        m = len(matrix)
+        n = len(matrix[0])
+        for i in range(m // 2):
+            matrix[i], matrix[m - 1 - i] = matrix[m - 1 - i], matrix[i]
+        for i in range(1, m):
+            for j in range(i):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
