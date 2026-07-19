@@ -1,0 +1,20 @@
+class Solution(object):
+    def getPermutation(self, n, k):
+        """
+        :type n: int
+        :type k: int
+        :rtype: str
+        """
+        import math
+        f = math.factorial(n - 1)
+        s = list(range(1, n + 1))
+        k -= 1
+        ans = ""
+        for i in range(n - 1, 0, -1):
+            index = k // f
+            ans += str(s[index])
+            s.pop(index)
+            k %= f
+            f //= i
+        ans += str(s[0])
+        return ans
