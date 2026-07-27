@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vasu292005-dotcom/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/vasu292005-dotcom/leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/vasu292005-dotcom/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vasu292005-dotcom/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vasu292005-dotcom/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vasu292005-dotcom/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/vasu292005-dotcom/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/vasu292005-dotcom/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |
