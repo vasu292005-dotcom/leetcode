@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vasu292005-dotcom/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vasu292005-dotcom/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vasu292005-dotcom/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/vasu292005-dotcom/leetcode/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vasu292005-dotcom/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/vasu292005-dotcom/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vasu292005-dotcom/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/vasu292005-dotcom/leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vasu292005-dotcom/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/vasu292005-dotcom/leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/vasu292005-dotcom/leetcode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vasu292005-dotcom/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vasu292005-dotcom/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/vasu292005-dotcom/leetcode/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -270,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vasu292005-dotcom/leetcode/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vasu292005-dotcom/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
