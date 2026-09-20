@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vasu292005-dotcom/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0097-interleaving-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vasu292005-dotcom/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vasu292005-dotcom/leetcode/tree/master/0068-text-justification) |
+| [3498-reverse-degree-of-a-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
