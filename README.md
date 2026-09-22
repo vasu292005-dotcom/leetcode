@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [3525-find-x-value-of-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## String
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vasu292005-dotcom/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vasu292005-dotcom/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/vasu292005-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [3525-find-x-value-of-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vasu292005-dotcom/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
