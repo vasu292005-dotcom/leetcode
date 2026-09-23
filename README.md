@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3525-find-x-value-of-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## String
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vasu292005-dotcom/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasu292005-dotcom/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vasu292005-dotcom/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/vasu292005-dotcom/leetcode/tree/master/0076-minimum-window-substring) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vasu292005-dotcom/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vasu292005-dotcom/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -390,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
