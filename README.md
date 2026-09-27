@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vasu292005-dotcom/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0097-interleaving-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vasu292005-dotcom/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vasu292005-dotcom/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
