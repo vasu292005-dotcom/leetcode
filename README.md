@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vasu292005-dotcom/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0097-interleaving-string) |
+| [0678-valid-parenthesis-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vasu292005-dotcom/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vasu292005-dotcom/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0097-interleaving-string) |
+| [0678-valid-parenthesis-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vasu292005-dotcom/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vasu292005-dotcom/leetcode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vasu292005-dotcom/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vasu292005-dotcom/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vasu292005-dotcom/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vasu292005-dotcom/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
