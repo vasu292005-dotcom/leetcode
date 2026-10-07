@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vasu292005-dotcom/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0097-interleaving-string) |
+| [0301-remove-invalid-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasu292005-dotcom/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vasu292005-dotcom/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Segment Tree
 |  |
 | ------- |
