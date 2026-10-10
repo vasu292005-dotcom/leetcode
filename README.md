@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasu292005-dotcom/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vasu292005-dotcom/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3525-find-x-value-of-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## String
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vasu292005-dotcom/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vasu292005-dotcom/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasu292005-dotcom/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vasu292005-dotcom/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vasu292005-dotcom/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vasu292005-dotcom/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vasu292005-dotcom/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vasu292005-dotcom/leetcode/tree/master/0088-merge-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vasu292005-dotcom/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vasu292005-dotcom/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vasu292005-dotcom/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
