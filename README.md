@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vasu292005-dotcom/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3525-find-x-value-of-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasu292005-dotcom/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/vasu292005-dotcom/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vasu292005-dotcom/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3525-find-x-value-of-array-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vasu292005-dotcom/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/vasu292005-dotcom/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/vasu292005-dotcom/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vasu292005-dotcom/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasu292005-dotcom/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/vasu292005-dotcom/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vasu292005-dotcom/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/vasu292005-dotcom/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
 | ------- |
