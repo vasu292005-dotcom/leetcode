@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasu292005-dotcom/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vasu292005-dotcom/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vasu292005-dotcom/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vasu292005-dotcom/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vasu292005-dotcom/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vasu292005-dotcom/leetcode/tree/master/0085-maximal-rectangle) |
+| [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vasu292005-dotcom/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0113-path-sum-ii) |
+| [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vasu292005-dotcom/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Segment Tree
 |  |
 | ------- |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vasu292005-dotcom/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
