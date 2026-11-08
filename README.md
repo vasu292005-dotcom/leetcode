@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vasu292005-dotcom/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasu292005-dotcom/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vasu292005-dotcom/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vasu292005-dotcom/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vasu292005-dotcom/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vasu292005-dotcom/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vasu292005-dotcom/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vasu292005-dotcom/leetcode/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vasu292005-dotcom/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasu292005-dotcom/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vasu292005-dotcom/leetcode/tree/master/0113-path-sum-ii) |
 | [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vasu292005-dotcom/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasu292005-dotcom/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Range Minimum/Maximum Query
 |  |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vasu292005-dotcom/leetcode/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/vasu292005-dotcom/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vasu292005-dotcom/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasu292005-dotcom/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Segment Tree
 |  |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vasu292005-dotcom/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vasu292005-dotcom/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vasu292005-dotcom/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasu292005-dotcom/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Fermat's Little Theorem
@@ -528,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vasu292005-dotcom/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vasu292005-dotcom/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
